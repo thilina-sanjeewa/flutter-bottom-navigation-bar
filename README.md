@@ -1,6 +1,6 @@
-# bottom_nav
+# bottom navigation bar
 
-A new Flutter project.
+Flutter modern bottom nav bar. Compatible with Android & iOS. You can customize it freely.
 
 ## Getting Started
 
